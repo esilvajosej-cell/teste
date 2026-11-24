@@ -7,3 +7,4 @@ printf("Difference: %d\n", a - b);
 printf("Product: %d\n", a * b);
 printf("Quotient: %d\n", a / b);
 printf("Remainder: %d\n", a % b);
+printf("Average: %.2f\n", (a + b) / 2.0);
